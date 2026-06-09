@@ -1,4 +1,4 @@
-# 
+# Native 7-Zip plugins for Mac OS | Professional 7-Zip plugins for PC Windows. Featuring custom themes and private settings — optimized for maximum performance on every platform.
 
 
 
